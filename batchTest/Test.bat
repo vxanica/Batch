@@ -1,0 +1,1 @@
+if /i %test% eq 1 dir
